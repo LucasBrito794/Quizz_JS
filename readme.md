@@ -8,9 +8,9 @@
 - Projeto desenvolvido durante o curso de [JavaScript do básico ao avançado (c/ Node.js e projetos)](https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/) com [Matheus Battisti](https://github.com/matheusbattisti/).
 
 ### 🌟 Tecnologias utilizadas
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🎯 Responsividade do Projeto
 - #### Telas grandes como computadores e notebooks:
